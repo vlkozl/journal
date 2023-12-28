@@ -7,6 +7,7 @@ tags: ["about"]
 cover:
     image: "msft.jpg"
     caption: "Microsoft Russia Development Center, 2018"
+author: "Vladimir Kozlov"
 ---
 💡 So, with just one pushed commit this site is now on-line. But again an internal critic asks me:
 > *"But why? Why the hell to create another new blog? There are plenty of bloggers and MVPs around with all sorts of wise thoughts, projects and cool stories."* 
