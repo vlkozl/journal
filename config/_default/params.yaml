@@ -10,7 +10,7 @@ author:
 
 searchHidden: false
 
-# env: production
+env: production
 description: "VK Tech.Journal"
 defaultTheme: dark
 ShowReadingTime: true
