@@ -1,5 +1,5 @@
-mainSections:
-  - blog
+# mainSections:
+#   - blog
 
 author:
   name: "Vladimir Kozlov"
