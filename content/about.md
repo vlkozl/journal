@@ -4,10 +4,10 @@ author: "Vladimir Kozlov"
 ShowReadingTime: false
 showbreadcrumbs: false
 cover:
-    image: "/img/vk.png"
+    image: "vk.png"
 ---
 
-My name is Vladimir and I work with [**Navision** / **Dynamics NAV** / **Business Central**](https://en.wikipedia.org/wiki/Microsoft_Dynamics_365#Microsoft_Dynamics_365_Business_Central) for the last 16 years as a Software Engineer. During this time I have seen and did a lot of everything related to it. Check out my formal bio [here](/journal/bio).
+My name is Vladimir and I work with [**Navision** / **Dynamics NAV** / **Business Central**](https://en.wikipedia.org/wiki/Microsoft_Dynamics_365#Microsoft_Dynamics_365_Business_Central) for the last 16 years as a Software Engineer. During this time I have seen and did a lot of everything related to it. Check out my formal bio [here](bio).
 
 Software Engineeing is full of fragments: ideas, know-hows, snippets, tricks and tips that we use and need a lot. In big-techs such as Microsoft, you rely on your numerous colleagues, their extensive expertise and huge code base. In the rest of the world you don't have such priveleges and rely on your knowledge or professional community.
 
