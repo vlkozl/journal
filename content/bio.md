@@ -1,6 +1,6 @@
 ---
 title: "Bio"
-draft: false
+author: "Vladimir Kozlov"
 ShowReadingTime: false
 showbreadcrumbs: false
 ---

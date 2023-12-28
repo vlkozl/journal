@@ -4,7 +4,7 @@ author: "Vladimir Kozlov"
 ShowReadingTime: false
 showbreadcrumbs: false
 cover:
-    image: "img/vk.png"
+    image: "journal/img/vk.png"
 ---
 
 My name is Vladimir and I work with [**Navision** / **Dynamics NAV** / **Business Central**](https://en.wikipedia.org/wiki/Microsoft_Dynamics_365#Microsoft_Dynamics_365_Business_Central) for the last 16 years as a Software Engineer. During this time I have seen and did a lot of everything related to it. Check out my formal bio [here](/journal/bio).
