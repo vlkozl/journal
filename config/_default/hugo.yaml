@@ -1,6 +1,12 @@
-baseURL: https://vlkozl.github.io/journal/
+baseURL: https://vlkozl.github.io/journal
 languageCode: en-us
 title: Vladimir Kozlov Tech.Journal
 copyright: Vladimir Kozlov Tech.Journal (c) 2023
 paginate: 6
 theme: PaperMod
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
