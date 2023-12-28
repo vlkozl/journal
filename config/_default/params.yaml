@@ -1,0 +1,43 @@
+author:
+  name: "Vladimir Kozlov"
+  email: kozlov.online@gmail.com
+
+assets:
+  favicon: "/favicon.ico"
+  favicon16x16:  "/favicon-16x16.png"
+  favicon32x32:  "/favicon-32x32.png"
+
+searchHidden: false
+
+# env: production
+description: "VK Tech.Journal"
+defaultTheme: dark
+ShowReadingTime: true
+ShowCodeCopyButtons: true
+# ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowShareButtons: false
+enableEmoji: true
+
+homeInfoParams:
+  Title: "Hi there👋"
+  Content: Welcome to my minimalistic technical journal. Here you can find some notes and ideas on Microsoft Dynamics NAV / Microsoft Dynamics 365 Business Central, and other technical stuff. You can find more about me in About, on LinkedIn or GitHub repos.
+
+socialIcons:
+    - name: "GitHub"
+      url: "https://github.com/vlkozl"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/-vladimir-kozlov/"
+
+fuseOpts:
+  isCaseSensitive: false
+  shouldSort: true
+  location: 0
+  distance: 1000
+  threshold: 0.4
+  minMatchCharLength: 0
+  keys:
+    - title
+    - permalink
+    - summary
+    - content

@@ -1,0 +1,32 @@
+main:
+  - identifier: archives
+    name: Archives
+    url: /archives/
+    weight: 50
+  # - identifier: categories
+  #   name: Categories
+  #   url: /categories/
+  #   weight: 60
+  - identifier: tags
+    name: Tags
+    url: /tags/
+    weight: 70
+  - identifier: search
+    name: Search
+    url: search/
+    weight: 80
+  - identifier: about
+    name: About
+    url: /about/
+    weight: 40
+  # - identifier: linkedin
+  #   name: LinkedIn
+  #   external: true
+  #   url: https://www.linkedin.com/in/-vladimir-kozlov/
+  #   weight: 99
+  # - identifier: github
+  #   name: GitHub
+  #   external: true
+  #   url: https://github.com/vlkozl
+  #   weight: 91
+
