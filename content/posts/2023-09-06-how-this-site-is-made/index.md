@@ -1,8 +1,10 @@
 ---
 title: "How to make this site in less than 20 minutes"
-summary: "About modern ways of making own web site with Static Site Generators."
+summary: "About modern ways of making own web site with help of static site generator."
 date: 2023-11-18
 author: "Vladimir Kozlov"
+cover:
+  image: "https://gohugo.io/images/hugo-logo-wide.svg"
 ---
 
 ## Good news
