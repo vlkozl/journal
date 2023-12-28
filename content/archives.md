@@ -1,7 +1,6 @@
 ---
 title: "Archive"
 layout: "archives"
-url: "/archives/"
+url: "/posts/"
 summary: Past Journal Notes
-language: en-US
 ---
