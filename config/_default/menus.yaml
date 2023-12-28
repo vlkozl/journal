@@ -19,14 +19,3 @@ main:
     name: About
     url: /about/
     weight: 40
-  # - identifier: linkedin
-  #   name: LinkedIn
-  #   external: true
-  #   url: https://www.linkedin.com/in/-vladimir-kozlov/
-  #   weight: 99
-  # - identifier: github
-  #   name: GitHub
-  #   external: true
-  #   url: https://github.com/vlkozl
-  #   weight: 91
-
