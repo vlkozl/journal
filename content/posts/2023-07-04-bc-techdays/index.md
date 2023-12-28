@@ -16,8 +16,7 @@ So, the conference is over, the planes are over, the trains are over, the fatigu
 
 The event was held on the backside of Antwerp, in a huge Kinepolis building, of which about half of the halls and space inside are rented. From the street it looks like an ordinary city outskirts, something reminiscent of the backyards of the Teply Stan metro station in Moscow, except without wind turbines.
 
-![photo](images/img01.jpg#width=100px)
-
+![photo](images/img01.jpg)
 
 ![photo](images/img02.jpg)
 
