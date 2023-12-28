@@ -3,4 +3,4 @@ languageCode: en-us
 title: Vladimir Kozlov Tech.Journal
 copyright: Vladimir Kozlov Tech.Journal (c) 2023
 paginate: 6
-theme: github.com/vlkozl/PaperMod
+theme: github.com/adityatelange/hugo-PaperMod
