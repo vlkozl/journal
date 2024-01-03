@@ -21,7 +21,9 @@ homeInfoParams:
   Title: "Hi there!"
   Content:  >
     👋 Welcome to my minimalistic technical journal!
+
     Here you can find some notes and ideas on Microsoft Dynamics NAV / Microsoft Dynamics 365 Business Central, and other technical stuff.
+
     You can find more about me and my work in About, LinkedIn or GitHub repos.
 
 socialIcons:
