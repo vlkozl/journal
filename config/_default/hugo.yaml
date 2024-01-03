@@ -5,6 +5,8 @@ copyright: Vladimir Kozlov Tech.Journal (c) 2023
 paginate: 6
 theme: PaperMod
 
+# enableInlineShortcodes: true
+
 outputs:
     home:
         - HTML

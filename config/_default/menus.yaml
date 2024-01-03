@@ -1,8 +1,12 @@
 main:
+  - identifier: about
+    name: About
+    url: /about/
+    weight: 10
   - identifier: archives
     name: Archives
     url: /archives/
-    weight: 50
+    weight: 20
   # - identifier: categories
   #   name: Categories
   #   url: /categories/
@@ -15,7 +19,3 @@ main:
     name: Search
     url: search/
     weight: 80
-  - identifier: about
-    name: About
-    url: /about/
-    weight: 40
