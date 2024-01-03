@@ -15,16 +15,17 @@ ShowCodeCopyButtons: true
 # ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowShareButtons: false
+ShowPageNums: true
 enableEmoji: true
 
 homeInfoParams:
   Title: "Hi there!"
-  Content:  >
+  Content: >
     👋 Welcome to my minimalistic technical journal!
 
-    Here you can find some notes and ideas on Microsoft Dynamics NAV / Microsoft Dynamics 365 Business Central, and other technical stuff.
+    - Here you can find some notes and ideas on Microsoft Dynamics NAV / Microsoft Dynamics 365 Business Central, and other technical stuff.
 
-    You can find more about me and my work in About, LinkedIn or GitHub repos.
+    - You can find more about me and my work in About, LinkedIn or GitHub repos.
 
 socialIcons:
     - name: "GitHub"
