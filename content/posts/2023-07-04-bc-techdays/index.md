@@ -4,7 +4,7 @@ summary: "Notes about the conference with some photos"
 author: "Vladimir Kozlov"
 date: 2023-07-04
 showtoc: true
-draft: false
+draft: true
 tags: ["bctechdays"]
 cover:
     image: "images/cover.jpg"
