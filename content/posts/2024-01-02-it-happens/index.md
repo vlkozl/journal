@@ -5,11 +5,14 @@ author: "Vladimir Kozlov"
 summary: "This is when your flexibility come to play"
 cover:
   image: "statista.jpg"
+tags:
+  - job
+  - Statista
 ---
 ### About my work
 Microsoft Dynamics NAV or Dynamics 365 Business Central is super popular ERP from small to some large companies around the globe. My role as a Software Engineer comes into play precisely in this domain, where I contribute to help business grow, to improve internal processes, implement features that enhance operational efficiency.
 
-I sell my time and fully depend on this business being successful for some time. But with that, I should never forget that all businesses are different and run in its unique environmental conditions, where so many variables could shuffle over the time: market laws, owners, stakeholders, management, directors, markets, committees, budgets, leaders and priorities, relationships and partnerships, trade agreements - so many factors can affect its pace and efficiency. People that carry too much responsibility, can suddenly get sick and pass away, or even get jailed. Job markets can be dry finding demanded experts.
+I sell my time and fully depend on this business being successful. But with that, I should never forget that all businesses are different and run in its unique environmental conditions, where so many variables could shuffle over the time: market laws, owners, stakeholders, management, directors, markets, committees, budgets, leaders and priorities, relationships and partnerships, trade agreements - so many factors can affect its pace and efficiency. People that carry too much responsibility, can suddenly get sick and pass away, or even get jailed. Job markets can be dry finding demanded experts.
 
 Life can throw some curveballs too. Because I'm from Russia, I've seen some wild things in my life. My first job related to Navision was in a company that went from being a successful distribution network to flat-out bankrupt in just 1,5 years — just because in 2000's it was common case to hijack a successful business. Founder and general director found himself incarcerated, only regaining freedom after his business had been sold off to competitors for a mere 10% of its market value.
 
