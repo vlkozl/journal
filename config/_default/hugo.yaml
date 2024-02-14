@@ -6,6 +6,7 @@ paginate: 6
 theme: PaperMod
 
 # enableInlineShortcodes: true
+googleAnalytics: G-D50SJWV844
 
 outputs:
     home:
